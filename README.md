@@ -1,19 +1,19 @@
 # .github
 
-Ce dépôt héberge les fichiers communautaires et le profil public de l’organisation **Pimolu**.
+This repository hosts the community files and the public profile of the **Pimolu** organization.
 
-## Profil de l’organisation
+## Organization profile
 
-Le contenu affiché sur [github.com/pimoludev](https://github.com/pimoludev) se trouve dans :
+The content shown at [github.com/pimoludev](https://github.com/pimoludev) lives in:
 
-- [`profile/README.md`](profile/README.md) — le README du profil de l’organisation
-- [`profile/assets/`](profile/assets) — la bannière et les visuels utilisés dans ce README
+- [`profile/README.md`](profile/README.md) — the organization profile README
+- [`profile/assets/`](profile/assets) — the banner and visuals used in that README
 
-Pour modifier le profil, éditez `profile/README.md`, commitez sur `main`, puis rechargez la page de l’organisation.
+To update the profile, edit `profile/README.md`, commit to `main`, then reload the organization page.
 
-## En savoir plus
+## Learn more
 
-- [Personnalisation du profil de votre organisation](https://docs.github.com/fr/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+- [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 - [Pimolu UI](https://github.com/pimoludev/ui)
 - [pimolu.com](https://pimolu.com)
 
